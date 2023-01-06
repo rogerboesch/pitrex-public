@@ -4,7 +4,7 @@ This project contains the public available files of my [Vectrex newsletter](http
 To have access to ALL source, please consider to get a paid subscriber.
 Thanks for helping me to work on this newsletter on a weekly base.
 
-# Vexxon - The Game
+## Vexxon - The Game
 
 Vexxon is a Zaxxon alike game I write for the Vectrex/PiTrex as part of my [Vectrex newsletter](https://vectrex.substack.com)
 
