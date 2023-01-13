@@ -33,7 +33,7 @@ To use **Playground.app** download **playground_macos.zip** and extract it to a 
 No further installation is needed.
 
 
-## Linux
+## PiTrex
 
-coming soon...
+And of course the PiTrex version which is at **playground_pitrex.tra.gz**
 
